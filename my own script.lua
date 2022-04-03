@@ -51,11 +51,11 @@ MiscHub.BackgroundColor3 = Color3.fromRGB(255, 3, 3)
 MiscHub.Position = UDim2.new(0.515765786, 0, 0.232558146, 0)
 MiscHub.Size = UDim2.new(0, 215, 0, 165)
 MiscHub.Font = Enum.Font.SourceSans
-MiscHub.Text = "Press For The Misc Hub"
+MiscHub.Text = "Nice Bull Shit"
 MiscHub.TextColor3 = Color3.fromRGB(0, 0, 0)
 MiscHub.TextSize = 14.000
 MiscHub.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://uraniumhub.tk/storage/script.lua", true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/AntoniTGS/Fast-Execute-PSX-Script/main/New%20Text%20Document.lua", true))()
 end)
 ----THX For Using This GUI
 TextButton.MouseButton1Down:connect(function()
